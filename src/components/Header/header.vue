@@ -1,6 +1,7 @@
 <template>
     <div class="header">
       我是头部
+      头部内容添加
     </div>
 </template>
 
