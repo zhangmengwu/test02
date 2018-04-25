@@ -11,5 +11,8 @@
 </script>
 
 <style scoped>
-
+  .header{
+    text-align: center;
+    color:red;
+  }
 </style>
