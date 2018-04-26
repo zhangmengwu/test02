@@ -1,9 +1,6 @@
 <template>
     <div class="footer">
-      我是头部
-      我是第二次修改
-
-      头部内容添加
+      我是尾部
 
     </div>
 </template>
