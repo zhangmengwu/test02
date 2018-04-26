@@ -1,5 +1,5 @@
 <template>
-    <div class="header">
+    <div class="footer">
       我是头部
       我是第二次修改
 
