@@ -1,7 +1,8 @@
 <template>
     <div>
 
-      其他
+      其他的修
+      修改远程端版本库
     </div>
 </template>
 
